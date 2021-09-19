@@ -1,0 +1,37 @@
+.speech {
+    font-family: "Times New Roman', Times, serif" ;
+    font-size: 13px;
+    cplor:black;
+}
+.stage-direction {
+    font-family: "Calibri" ;
+    font-size: 15px;
+    color:black;
+    background-color: lightskyblue;
+}
+.name {
+    font-family: "Arial" ;
+    font-size: 16px;
+    cplor:black;
+    background-color: lightskyblue;
+}
+.stage-direction:hover{
+    background-color:greenyellow;
+    color: mediumvioletred;
+}
+
+.WINDERMERE{
+    color: blueviolet;
+}
+.DARLINGTON{
+    color: orange;
+}
+.BERWICK{
+    color: yellow;
+}
+h6{
+    margin: 10px 0;
+}
+
+
+    
