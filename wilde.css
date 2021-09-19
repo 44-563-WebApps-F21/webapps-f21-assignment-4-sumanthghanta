@@ -1,7 +1,7 @@
 .speech {
     font-family: "Times New Roman', Times, serif" ;
     font-size: 13px;
-    cplor:black;
+    color:black;
 }
 .stage-direction {
     font-family: "Calibri" ;
@@ -12,14 +12,13 @@
 .name {
     font-family: "Arial" ;
     font-size: 16px;
-    cplor:black;
+    color:black;
     background-color: lightskyblue;
 }
 .stage-direction:hover{
     background-color:greenyellow;
     color: mediumvioletred;
 }
-
 .WINDERMERE{
     color: blueviolet;
 }
