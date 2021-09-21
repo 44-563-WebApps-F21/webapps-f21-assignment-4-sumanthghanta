@@ -39,3 +39,4 @@ table, th, td, tr{
     padding: 12px;
     margin: 10px;
 }
+ tr:nth-child(even){background-color:lightseagreen ;}
