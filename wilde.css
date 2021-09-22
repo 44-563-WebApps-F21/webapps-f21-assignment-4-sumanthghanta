@@ -13,7 +13,7 @@
     font-family: "Arial" ;
     font-size: 16px;
     color:black;
-    background-color: lightskyblue;
+    
 }
 .stage-direction.hover{
     background-color:greenyellow;
@@ -33,10 +33,14 @@ h6{
 }
 table, th, td, tr{
     border: solid blue;
-    color: blanchedalmond;
+    color: brown;
     text-align: left;
     border-collapse: collapse;
     padding: 12px;
     margin: 10px;
 }
- tr:nth-child(even){background-color:lightgrey ;}
+ tr:nth-child(even){background-color:lightgreen ;}
+ .name:hover{
+     text-shadow: 5px 3px 8px green;
+     border: solid 4px tomato;
+ }
